@@ -1,6 +1,5 @@
 # 🚀 Bot Setup Instructions
 
-
 Welcome to the bot setup guide! Follow the steps below to install and configure the bot correctly. This guide is designed to be beginner-friendly, with clear explanations for each step.
 
 ---
@@ -44,31 +43,19 @@ This file controls the bot’s behavior. Below is an example configuration:
 
 ### 2. `datas.txt` - 🗂️ User Data
 
-Fill the `datas.txt` file with these datas from [here](https://t.me/KeoAirDropFreeNe/257/6879). This file contains user data in the following format:
+Fill the `datas.txt` file with your private keys of evm wallets.
+
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
 
 ```txt
-query_id.../user...
-query_id.../user...
-query_id.../user...
+0x...
+0x...
+0x...
 ```
 
 _Note: Each row for each account_
 
-### 3. `wallets.txt` - 💼 Wallet Addresses
-
-- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
-
-Add your wallet addresses in the following format:
-
-```txt
-abc...xyz
-abc...xyz
-abc...xyz
-```
-
-_Note: Wallet updates are currently not supported._
-
-### 4. `proxies.txt` - 🌐 Proxy List (Optional)
+### 3. `proxies.txt` - 🌐 Proxy List (Optional)
 
 If you are using proxies, add them here. Leave the file blank if you are not using proxies. Supported formats:
 
