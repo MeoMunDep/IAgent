@@ -52,6 +52,17 @@ Fill the `datas.txt` file with your private keys of evm wallets.
 0x...
 ```
 
+### 2.1 `telegramDatas.txt` - 🗂️ User Data
+
+
+- Fill the data for `datas.txt` file, get data from [here](https://t.me/KeoAirDropFreeNe/257/6879). This file contains user data in the following format:
+
+```txt
+query_id.../user...
+query_id.../user...
+query_id.../user...
+```
+
 _Note: Each row for each account_
 
 ### 3. `proxies.txt` - 🌐 Proxy List (Optional)
@@ -84,7 +95,13 @@ _Note: each row for each account_
 2. Run the bot using the following command:
 
 ```bash
-./meomundep.exe
+./meomundep.exe 
+```
+
+or
+
+```bash
+node meomundep
 ```
 
 ---
