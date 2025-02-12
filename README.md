@@ -29,13 +29,14 @@ This file controls the bot’s behavior. Below is an example configuration:
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 10,
   "referralCode": "ABTLFV",
-  "telegramReferralCode": "1dab9f7e-7b16-4c1b-bf8c-d62ddc212ea2"
+  "telegramReferralCode": "1dab9f7e-7b16-4c1b-bf8c-d62ddc212ea2",
+  "doTasks": true
 }
-
 ```
 
 - **Fields Explained:**
   - `timeZone`: Time zone setting (e.g., "en-US").
+  - `doTasks`: Enable tasks feature for telergam bot.
   - `skipInvalidProxy`: Skip invalid proxies if `true`.
   - `delayEachAccount`: Random delay range (in seconds) between accounts.
   - `timeToRestartAllAccounts`: Time (in seconds) to restart all accounts.
