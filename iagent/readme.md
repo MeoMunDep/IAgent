@@ -91,7 +91,7 @@ _Note: each row for each account_
 
 ## Contact and Support
 
-- **Help me with your referral** [Referral Link](https://xp.iagentpro.com/?ref=ABTLFV)
+- **Help me with your referral** [Referral Link](https://xp.iagentpro.com/?ref=ABTLFV) | [Telegram referral Link](https://t.me/AGNTxpBot/AGNTxp?startapp=rid-1dab9f7e-7b16-4c1b-bf8c-d62ddc212ea2)
 - **Buy me a telegram account** [Here](https://t.me/KeoAirDropFreeNe/312/27801) or [Here](https://github.com/MeoMunDep/MeoMunDep)
 
 If you encounter any issues or have questions, feel free to reach out:
