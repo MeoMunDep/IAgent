@@ -5,5 +5,6 @@
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 10,
   "referralCode": "ABTLFV",
-  "telegramReferralCode": "1dab9f7e-7b16-4c1b-bf8c-d62ddc212ea2"
+  "telegramReferralCode": "1dab9f7e-7b16-4c1b-bf8c-d62ddc212ea2",
+  "doTasks": true
 }
