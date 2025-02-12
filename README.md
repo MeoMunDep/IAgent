@@ -25,11 +25,13 @@ This file controls the bot’s behavior. Below is an example configuration:
 {
   "timeZone": "en-US",
   "skipInvalidProxy": false,
-  "delayEachAccount": [5, 8],
+  "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 100,
-  "referralCode": "ABTLFV"
+  "howManyAccountsRunInOneTime": 10,
+  "referralCode": "ABTLFV",
+  "telegramReferralCode": "1dab9f7e-7b16-4c1b-bf8c-d62ddc212ea2"
 }
+
 ```
 
 - **Fields Explained:**
@@ -39,6 +41,7 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `timeToRestartAllAccounts`: Time (in seconds) to restart all accounts.
   - `howManyAccountsRunInOneTime`: Number of accounts to run simultaneously.
   - `referralCode`: Add your referral code (optional). Do not change it if you want to support me ^^
+  - `telegramReferralCode`: Add your telegram referral code (optional). Do not change it if you want to support me ^^
 
 ### 2. `datas.txt` - 🗂️ User Data
 
