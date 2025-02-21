@@ -3,8 +3,9 @@
   "skipInvalidProxy": false,
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 10,
+  "howManyAccountsRunInOneTime": 1,
   "referralCode": "ABTLFV",
   "telegramReferralCode": "1dab9f7e-7b16-4c1b-bf8c-d62ddc212ea2",
-  "doTasks": true
+  "doTasks": true,
+  "uploadAiPicture": true
 }

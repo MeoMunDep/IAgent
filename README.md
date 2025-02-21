@@ -27,10 +27,11 @@ This file controls the bot’s behavior. Below is an example configuration:
   "skipInvalidProxy": false,
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 10,
+  "howManyAccountsRunInOneTime": 1,
   "referralCode": "ABTLFV",
   "telegramReferralCode": "1dab9f7e-7b16-4c1b-bf8c-d62ddc212ea2",
-  "doTasks": true
+  "doTasks": true,
+  "uploadAiPicture": true
 }
 ```
 
@@ -43,6 +44,7 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `howManyAccountsRunInOneTime`: Number of accounts to run simultaneously.
   - `referralCode`: Add your referral code (optional). Do not change it if you want to support me ^^
   - `telegramReferralCode`: Add your telegram referral code (optional). Do not change it if you want to support me ^^
+  - `uploadAiPicture`: Enable upload picture feature.
 
 ### 2. `datas.txt` - 🗂️ User Data
 
