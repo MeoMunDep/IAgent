@@ -51,7 +51,7 @@ This file controls the bot’s behavior. Below is an example configuration:
 Fill the `datas.txt` file with your private keys of evm wallets.
 
 - Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
-
+- EVM PrivateKey
 ```txt
 0x...
 0x...
